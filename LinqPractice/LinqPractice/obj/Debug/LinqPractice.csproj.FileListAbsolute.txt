@@ -1,0 +1,1 @@
+E:\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe.config
